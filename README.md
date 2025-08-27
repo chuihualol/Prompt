@@ -36,7 +36,7 @@
 ```Use the nano-banana model to create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic styie and environment.Place the figure on a computer desk, using a circular transparent acrylic base
 without any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a BANDAl-style toy packaging box printedwith the original artwork.
 ```
-![手办](vx_images/147484836736888.png =720x)
+![手办](imgs/shouban.png =720x)
 
 
 ### 生图提示词
