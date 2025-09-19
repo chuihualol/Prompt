@@ -31,7 +31,7 @@
 
 ### prompt
 
-## www.imarena.ai
+## www.lmarena.ai
 3D手办prompt
 ~~~
 Use the nano-banana model to create a 1/7 scale commercialized figure of thecharacter in the illustration, in a realistic styie and environment.Place the figure on a computer desk, using a circular transparent acrylic base
